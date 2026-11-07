@@ -2,7 +2,7 @@
 
 Tugas Kelompok Kriptografi. Program enkripsi dan dekripsi block cipher sederhana (toy cipher, jaringan Feistel 4 ronde) dengan ukuran blok 16 bit dan mode operasi ECB, CBC, dan Counter.
 
-**Anggota:** Arief Fandi Satria (124140020), Pindo Kresno Wibowo Khumail Amran Irawan (124140158)
+**Anggota:** Arief Fandi Satria (124140020), Pindo Kresno Wibowo Khumail Amran Irawan (124140158), Muhammad Riyan Daris (124140146)
 
 > Hanya untuk pembelajaran. Jangan dipakai untuk data nyata.
 
